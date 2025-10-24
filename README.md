@@ -1,2 +1,6 @@
-# arc_workshop
-Amon Research Center - Workshop 
+# README.md
+WIP
+Who are we
+Why are we here
+What are we doing
+Really?
