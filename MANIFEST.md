@@ -17,6 +17,9 @@
 📄 .kateproject
   Added: 2025-10-23 — Initial commit
 
+📄 CHANGELOG.md
+  Added: 2025-10-23 — Initial commit
+
 📄 CODE_OF_CONDUCT.md
   Added: 2025-10-23 — Initial commit
 
@@ -30,6 +33,9 @@
   Added: 2025-10-23 — Initial commit
 
 📄 LICENSE.md
+  Added: 2025-10-23 — Initial commit
+
+📄 MANIFEST.md
   Added: 2025-10-23 — Initial commit
 
 📄 MISSION.md
@@ -55,11 +61,11 @@
 
 ## Recent Changes (Last 5)
 
+- 2025-10-23 — Added CHANGELOG.md — "Initial commit"
+- 2025-10-23 — Added MANIFEST.md — "Initial commit"
 - 2025-10-23 — Added .codespellrc — "Initial commit"
 - 2025-10-23 — Added .editorconfig — "Initial commit"
 - 2025-10-23 — Added .githooks/prepush — "Initial commit"
-- 2025-10-23 — Added .kateproject — "Initial commit"
-- 2025-10-23 — Added CODE_OF_CONDUCT.md — "Initial commit"
 
 ## Full File History
 
@@ -78,6 +84,9 @@
 📄 .kateproject
   Added: 2025-10-23 — Initial commit
 
+📄 CHANGELOG.md
+  Added: 2025-10-23 — Initial commit
+
 📄 CODE_OF_CONDUCT.md
   Added: 2025-10-23 — Initial commit
 
@@ -91,6 +100,9 @@
   Added: 2025-10-23 — Initial commit
 
 📄 LICENSE.md
+  Added: 2025-10-23 — Initial commit
+
+📄 MANIFEST.md
   Added: 2025-10-23 — Initial commit
 
 📄 MISSION.md
